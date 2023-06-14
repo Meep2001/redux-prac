@@ -1,0 +1,24 @@
+{
+  "name": "redux-prac",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meep2001/redux-prac.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meep2001/redux-prac/issues"
+  },
+  "homepage": "https://github.com/Meep2001/redux-prac#readme",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
